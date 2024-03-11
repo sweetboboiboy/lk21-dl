@@ -12,5 +12,9 @@
     "axios": "^0.18.0",
     "inquirer": "^6.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetboboiboy/lk21-dl.git"
+  },
   "devDependencies": {}
 }
